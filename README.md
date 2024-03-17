@@ -2,7 +2,7 @@
 
 **## Student Software Engineer @ Buckinghamshire New University**
 
-I'm a passionate student software engineer with a focus on [area of interest 1] and [area of interest 2]. 
+I'm a passionate student software engineer with a focus on Web Development and Software Engineering. 
 
 **## Portfolio**
 
