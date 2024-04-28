@@ -3,7 +3,7 @@
 
 ## Featured Projects
 
-# Pending Projects
+### Pending Projects
 https://natashasmalls.netlify.app/
 
 ## GitHub Trophies
