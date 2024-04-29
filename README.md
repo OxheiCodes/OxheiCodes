@@ -2,6 +2,7 @@
 ![Visits Badge](https://img.shields.io/badge/dynamic/json?color=blue&label=visits&query=%24.visits&url=https%3A%2F%2Fapi.example.com%2Fvisits)
 
 ## Featured Projects
+[Creative Director Portfolio](https://ahmarap.netlify.app/)
 
 ### Pending Projects
 https://natashasmalls.netlify.app/
