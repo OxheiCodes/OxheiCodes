@@ -2,7 +2,7 @@
 
 
 ## Featured Projects
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ec0752c0-a4cc-49fd-ae72-44e418a1e241/deploy-status)](https://app.netlify.com/sites/ahmarap/deploys) | [Creative Director Portfolio](https://ahmarap.netlify.app/)
+[Creative Director Portfolio](https://ahmarap.netlify.app/)
 
 ### Pending Projects
 https://natashasmalls.netlify.app/
