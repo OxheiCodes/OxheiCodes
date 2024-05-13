@@ -10,7 +10,6 @@ https://natashasmalls.netlify.app/
 ## Social Media 📱
 
 [Youtube](https://www.youtube.com/channel/UCH8OEu01gvefrTQ2Jo32Z0A) [Linkedin](https://www.linkedin.com/in/oxheii/)
-![youtube](https://www.youtube.com/channel/UCH8OEu01gvefrTQ2Jo32Z0A)
 
 
 ## GitHub Trophies
