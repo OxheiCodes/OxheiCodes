@@ -5,7 +5,8 @@
 [Creative Director Portfolio](https://ahmarap.netlify.app/)
 
 ### Pending Projects
-https://natashasmalls.netlify.app/
+[Fashion Promotion Portfolio](https://natashasmalls.netlify.app/)
+[CineAI](https://github.com/OxheiCodes/CineAi)
 
 ## Social Media 📱
 
