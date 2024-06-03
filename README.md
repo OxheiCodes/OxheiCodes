@@ -1,11 +1,7 @@
 ![LinkedinBanner](https://github.com/OxheiCodes/OxheiCodes/assets/162317835/d5432818-de78-4407-82e7-f0a60c7e9579)
-![Ahmara logo](https://github.com/OxheiCodes/OxheiCodes/assets/162317835/c05d3ad4-49d3-4955-8f8b-ee8880fdbd50)
-
 
 ## Featured Projects
-
 [Creative Director Portfolio](https://ahmarap.netlify.app/)
-![[Ahmara logo](https://ahmarap.netlify.app/)](https://github.com/OxheiCodes/OxheiCodes/assets/162317835/71db4afe-a855-4773-9ffc-7ee7fd5a7806)
 
 
 ### Pending Projects
