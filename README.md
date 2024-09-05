@@ -5,12 +5,10 @@
 
 
 ### Pending Projects
-[Fashion Promotion Portfolio](https://natashasmalls.netlify.app/)
 [CineAI](https://github.com/OxheiCodes/CineAi)
 
 ## Social Media 📱
-
-[Youtube](https://www.youtube.com/channel/UCH8OEu01gvefrTQ2Jo32Z0A) [Linkedin](https://www.linkedin.com/in/oxheii/)
+ [Linkedin](https://www.linkedin.com/in/oxheii/)
 
 
 ## GitHub Trophies
