@@ -23,7 +23,7 @@ I'm a passionate developer and creative director. Here you'll find my projects, 
 
 ## 📊 GitHub Stats
 
-![OxheiCodes's Stats](https://github-readme-stats.vercel.app/api?username=OxheiCodes&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![OxheiCodes's Stats](https://github-readme-stats.vercel.app/api?username=OxheiCodes&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true) ![OxheiCodes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OxheiCodes&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
 ## 🏆 GitHub Trophies
