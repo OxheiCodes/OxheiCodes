@@ -23,7 +23,7 @@ I'm a passionate developer and creative director. Here you'll find my projects, 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OxheiCodes&show_icons=true&theme=radical)
+![OxheiCodes's Stats](https://github-readme-stats.vercel.app/api?username=OxheiCodes&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ## 🏆 GitHub Trophies
 
