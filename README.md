@@ -59,7 +59,7 @@ I'm actively developing my skills in ethical hacking and cybersecurity:
 - 🔍 Learning penetration testing methodologies
 - 📚 Researching OWASP Top 10 vulnerabilities
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/oxhei.png" alt="TryHackMe Badge">
+<img src="https://tryhackme-badges.s3.amazonaws.com/oxhei.png" alt="Your Image Badge" />
 
 ## 📊 GitHub Stats
 
