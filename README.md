@@ -1,45 +1,85 @@
-# Welcome to My GitHub Profile! 👋
+# 👋 Hi, I'm Richard Ochei
 
-![LinkedinBanner](https://github.com/OxheiCodes/OxheiCodes/assets/162317835/d5432818-de78-4407-82e7-f0a60c7e9579)
+Full-Stack Developer with a growing passion for cybersecurity. Currently completing my computing degree at Buckinghamshire New University.
 
-I'm a passionate developer and creative director. Here you'll find my projects, skills, and more!
+## 🧰 Technical Skills
+
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### Security
+![Penetration Testing](https://img.shields.io/badge/-Penetration_Testing-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
+![OWASP Top 10](https://img.shields.io/badge/-OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+![SQL Injection Prevention](https://img.shields.io/badge/-SQL_Injection_Prevention-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=buffer&logoColor=white)
 
 ## 🚀 Featured Projects
 
-- [Creative Director Portfolio](https://ahmarap.netlify.app/) - Showcase of my work as a Creative Director
+### [SecurePal](https://github.com/richardochei/securepal)
+A LinkedIn-like platform specifically designed for security professionals. Built with React, Node.js, and MongoDB.
+- User authentication with JWT
+- Real-time messaging using Socket.io
+- Security job board with filtering capabilities
 
-### 🔮 Upcoming Projects
+### [Project Name](https://github.com/richardochei/project-link)
+Brief description of another significant project.
+- Key feature 1
+- Key feature 2
+- Technologies used
 
-- [CineAI](https://github.com/OxheiCodes/CineAi) - An AI-powered tool for cinema enthusiasts (Coming Soon!)
+### [Project Name](https://github.com/richardochei/project-link)
+Brief description of another significant project.
+- Key feature 1
+- Key feature 2
+- Technologies used
 
-## 💻 Skills
+## 🔐 My Cybersecurity Journey
 
-```
-- Web Development: HTML, CSS, JavaScript
-- UI/UX Design
-- Creative Direction
-- Project Management
-```
+I'm actively developing my skills in ethical hacking and cybersecurity:
+
+- 🏆 Completed X rooms on TryHackMe
+- 🧠 Currently studying for CompTIA Security+
+- 🔍 Learning penetration testing methodologies
+- 📚 Researching OWASP Top 10 vulnerabilities
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/yourusername.png" alt="TryHackMe Badge">
 
 ## 📊 GitHub Stats
 
-![OxheiCodes's Stats](https://github-readme-stats.vercel.app/api?username=OxheiCodes&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true) ![OxheiCodes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OxheiCodes&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardochei&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=richardochei&theme=dark)](https://git.io/streak-stats)
 
-## 🏆 GitHub Trophies
+## 📝 Latest Blog Posts
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OxheiCodes&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- BLOG-POST-LIST:START -->
+- [How I Built SecurePal: A Platform for Security Professionals](https://dev.to/richardochei/post-link)
+- [Understanding OWASP Top 10: A Beginner's Guide](https://dev.to/richardochei/post-link)
+<!-- BLOG-POST-LIST:END -->
 
-## 📱 Connect with Me
+## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oxheii/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter_handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=About.me&logoColor=white)](https://ahmarap.netlify.app/)
-
-## 📈 Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/OxheiCodes/count.svg)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardochei)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://yourportfolio.com)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourusername)
 
 ---
 
-⭐️ From [OxheiCodes](https://github.com/OxheiCodes)
+💼 Open to job opportunities in Full-Stack Development and Cybersecurity
