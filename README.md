@@ -1,3 +1,6 @@
+![Oxhei](https://github.com/user-attachments/assets/98b2c9d3-59c2-467e-b7e6-55978f9077a3)
+
+
 # 👋 Hi, I'm Richard Ochei
 
 Full-Stack Developer with a growing passion for cybersecurity. Currently completing my computing degree at Buckinghamshire New University.
