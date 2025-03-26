@@ -1,4 +1,4 @@
-# Hi there! I'm [Richard] 👋
+# Hi there! I'm Richard 👋
 
 ## 🌟 About Me
 
