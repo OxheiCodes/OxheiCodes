@@ -1,9 +1,9 @@
-# Hi there! I'm [Your Name] 👋
+# Hi there! I'm [Richard] 👋
 
 ## 🌟 About Me
 
 ```markdown
-🚀 Tech Enthusiast | 💻 Developer | 🌈 Innovator
+🚀 Tech Enthusiast | 💻 Developer | 🎉 Innovator
 ```
 
 ### 🔧 Technologies & Tools
