@@ -15,7 +15,7 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub Stats" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=oxheicodes&show_icons=true&theme=radical" alt="Your GitHub Stats" width="400"/>
 
 ### 🌱 Currently Learning
 
